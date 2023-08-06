@@ -6,7 +6,7 @@
 
 ### 1. [Work Smarter with Microsoft Word](https://www.coursera.org/learn/microsoft-word-work-smarter?specialization=microsoft-365-fundamentals)
 
-####    *Certificate:* ...
+####    *Certificate:* _https://www.coursera.org/account/accomplishments/verify/NRELPGRR9HYZ_
 #
 ### 2. [Work Smarter with Microsoft Excel](https://www.coursera.org/learn/microsoft-excel-work-smarter?specialization=microsoft-365-fundamentals)
 
