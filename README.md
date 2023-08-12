@@ -10,7 +10,7 @@
 #
 ### 2. [Work Smarter with Microsoft Excel](https://www.coursera.org/learn/microsoft-excel-work-smarter?specialization=microsoft-365-fundamentals)
 
-####    *Certificate:* ...
+####    *Certificate:* _https://www.coursera.org/account/accomplishments/verify/6BNCBTDLCY2V_
 #   
 ### 3. [Work Smarter with Microsoft PowerPoint](https://www.coursera.org/learn/microsoft-powerpoint-work-smarter?specialization=microsoft-365-fundamentals)
 
